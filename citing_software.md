@@ -17,11 +17,8 @@ This page contains some links for an informal discussion at the
 ### Some Examples -- PDEs and related software
 
 *  [Chombo](https://commons.lbl.gov/display/chombo/Chombo+-+Software+for+Adaptive+Solutions+of+Partial+Differential+Equations) 
-*  [Clawpack](http://clawpack.github.io/doc/about.html#citing-this-work) 
-   ... [PyClaw](http://clawpack.github.io/doc/pyclaw/index.html#citing) 
+*  [Clawpack](http://clawpack.github.io/doc/about.html#citing-this-work) ... [PyClaw](http://clawpack.github.io/doc/pyclaw/index.html#citing) 
 *  [deal.II](http://www.dealii.org/publications.html) 
-
-
 *  [Dune](http://www.dune-project.org/faq.html) 
 *  [FEniCS](http://fenicsproject.org/citing/) 
 *  [OpenFOAM](http://openfoamwiki.net/index.php/Main_FAQ#How_can_I_properly_reference_OpenFOAM.3F) 
