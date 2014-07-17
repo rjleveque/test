@@ -20,6 +20,8 @@ This page contains some links for an informal discussion at the
 *  [Clawpack](http://clawpack.github.io/doc/about.html#citing-this-work) 
    ... [PyClaw](http://clawpack.github.io/doc/pyclaw/index.html#citing) 
 *  [deal.II](http://www.dealii.org/publications.html) 
+
+
 *  [Dune](http://www.dune-project.org/faq.html) 
 *  [FEniCS](http://fenicsproject.org/citing/) 
 *  [OpenFOAM](http://openfoamwiki.net/index.php/Main_FAQ#How_can_I_properly_reference_OpenFOAM.3F) 
@@ -46,4 +48,9 @@ This page contains some links for an informal discussion at the
 *  [Geoscientific Model Development (GMD)](http://www.geoscientific-model-development.net/home.html) has been used to publish short papers with
 current authors for each new release of software project.
 *  [Stackexchange discussion](http://scicomp.stackexchange.com/questions/660/venues-for-publishing-papers-that-emphasize-software)  with many more links
+
+* See http://arxiv.org/abs/1312.2266 for an example of a short paper
+  associated with each specific release.  (But note that arXiv insisted 
+  that the papers announcing 8.0 and 8.1 were two versions of the same paper,
+  rather than two distinct papers as was desired.)
 
